@@ -1,0 +1,3 @@
+C:/Users/Damien/CLionProjects/BEngineLogger/cmake-build-debug/CMakeFiles/BEngineLogger.dir
+C:/Users/Damien/CLionProjects/BEngineLogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Damien/CLionProjects/BEngineLogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
